@@ -1,7 +1,0 @@
-print ("===========================================================")
-print             (" SELAMAT DATANG DI PYTHON")
-print ("============================================================")
-print()
-print("progam ini di buat oleh:",")(ochta setyawan)")
-print("sekolah smk tjp tuban")
-print("tahun   :",2026)
